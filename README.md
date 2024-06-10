@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*t2-FA2PGbzaT-byEv_wPxg.png)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">I am a dedicated software developer with a passion for coding and problem-solving. I specialize in creating efficient, innovative solutions and producing quality work.</h3><br>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif"/>
 
 - 🔭 I’m currently working on **my personal projects based on Java.**
