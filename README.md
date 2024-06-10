@@ -1,17 +1,21 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*t2-FA2PGbzaT-byEv_wPxg.png)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif"/>
 
-- 🔭 I’m currently working on **HTML/CSS Project**
+- 🔭 I’m currently working on **my personal projects based on Java.**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot.**
+
+- 👯 I’m looking to collaborate on **Java development based projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohitsingh00](https://github.com/mohitsingh00)
 
-- 💬 Ask me about **Java, Hibernate, Spring, J2EE**
+- 💬 Ask me about **Java, Hibernate, Spring.**
 
 - 📫 How to reach me **mohitsingh96210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HuB7-uKBNmv49WDwKM_uN2dEjCPhGoh3/view?usp=sharing](https://drive.google.com/file/d/1HuB7-uKBNmv49WDwKM_uN2dEjCPhGoh3/view?usp=sharing)
+- 📄 Know about my experiences through my [detailed resume.](https://drive.google.com/file/d/1HuB7-uKBNmv49WDwKM_uN2dEjCPhGoh3/view?usp=sharing)
 
 - ⚡ Fun fact **I love to Play Cricket.**
 
