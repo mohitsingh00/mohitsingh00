@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohitsingh96210@gmail.com**
 
-- 📄 Know about my experiences through my [detailed resume.](https://drive.google.com/file/d/1HuB7-uKBNmv49WDwKM_uN2dEjCPhGoh3/view?usp=sharing)
+- 📄 Know about my experiences through my detailed [resume.](https://drive.google.com/file/d/1HuB7-uKBNmv49WDwKM_uN2dEjCPhGoh3/view?usp=sharing)
 
 - ⚡ Fun fact **I love to Play Cricket.**
 
