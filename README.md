@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Java development based projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohitsingh00](https://github.com/mohitsingh00)
+- 👨‍💻 All of my projects are available on the [Portfolio](https://mohitsingh00.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Java, Hibernate, Spring.**
 
