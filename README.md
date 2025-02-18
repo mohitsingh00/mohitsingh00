@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **my personal projects based on Java.**
 
-- 🌱 I’m currently learning **Spring Boot.**
+- 🌱 I’m currently learning **AWS.**
 
 - 👯 I’m looking to collaborate on **Java development based projects.**
 
 - 👨‍💻 All of my projects are available on the [Portfolio.](https://mohitsingh00.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Java, Hibernate, Spring.**
+- 💬 Ask me about **Java 8, REST APIs, Hibernate, Spring Boot, Spring Security.**
 
 - 📫 How to reach me **mohitsingh96210@gmail.com**
 
